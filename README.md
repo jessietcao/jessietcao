@@ -1,7 +1,5 @@
 # Hey!🌟🚀
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20dump%20💃%20&fontSize=30)
-
 ## 🌱 Ongoing Projects:
 - HerNote: Cross-platform mobile app with menstruation cycles tracking + self-care utilities
 - Five Elements Combat: Multi-player online game with an all-new five elements combat system
@@ -13,11 +11,23 @@
 - Sorcery Card Game: Command prompt card game similar to Magic the Gathering + Hearthstone
 - wlp4 Compiler: Compiler for simplified C++
 - etc.
-
-## Let's Keep in Touch! 
+  
+## ☄️ About me
+* Draws
+* Plays ukulele
+* Plays badminton (poorly)
+* Trying to learn skateboarding
+* Trying to learn snowboarding
+* Reads (shoot me a message on <a href="https://jessiecao.ca/home.html">my website</a> to recommend me books to read)
+  
+## 🙌 Let's Keep in Touch! 
 <a href="https://www.linkedin.com/in/jessietcao/">
   <img height="50" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000"/>
 </a>
 
-## Have a fun visit!
+<a href="mailto:jessietcao@gmail.com">
+  <img height="50" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>
+</a>
+
+## 💞 Have a fun visit!
 <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa201bG1ueHRpMnltbDg3bjF4bTNtZmRjanJheDd2YXljbWx6dzRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif">
