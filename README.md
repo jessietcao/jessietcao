@@ -19,5 +19,5 @@
   <img height="50" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000"/>
 </a>
 
-##
+## Have a fun visit!
 <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa201bG1ueHRpMnltbDg3bjF4bTNtZmRjanJheDd2YXljbWx6dzRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif">
