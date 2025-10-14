@@ -18,7 +18,7 @@
 * Plays badminton (poorly)
 * Trying to learn skateboarding
 * Trying to learn snowboarding
-* Reads (shoot me a message on <a href="https://jessiecao.ca/home.html">my website</a> to recommend me books to read)
+* Reads (trying to...shoot me a message on <a href="https://jessiecao.ca/home.html">my website</a> to recommend me books to read)
   
 ## 🙌 Let's Keep in Touch! 
 <a href="https://www.linkedin.com/in/jessietcao/">
