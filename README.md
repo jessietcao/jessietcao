@@ -8,6 +8,7 @@
 
 ## 🔭 Completed Projects
 - Menstruation Tracker: Java app with menstruation tracking + predicting abilities
+- Custom SERP-API: Anti-bot detection w/ Selenium on Brave, DuckDuckGo, Bing, Baidu, used for research + integration w/ MCP 
 - Sorcery Card Game: Command prompt card game similar to Magic the Gathering + Hearthstone
 - wlp4 Compiler: Compiler for simplified C++
 - etc.
