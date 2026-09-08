@@ -1,9 +1,7 @@
 # Hey!🌟🚀
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20dump%20💃%20&fontSize=30)
 ## 🌱 Ongoing Projects:
-- HerNote: Cross-platform mobile app with menstruation cycles tracking + self-care utilities
-- Five Elements Combat: Multi-player online game with an all-new five elements combat system
-
+- Scrollite: mysterious startup project!
 
 ## 🔭 Completed Projects
 - Menstruation Tracker: Java app with menstruation tracking + predicting abilities
